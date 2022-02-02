@@ -15,7 +15,7 @@ Once finished, run this:
 ```
 sa1_archive <file_name>.sa1 <password>
 ```
-A file will appear when generated. That is your generated arhive! Now you have to extract it with a password. To extract, run this:
+A file will appear when generated. That is your generated archive! Now you have to extract it with a password. To extract, run this:
 ```
 sa1_extract <file_name.sa1> <password>
 ```
