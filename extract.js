@@ -3,7 +3,6 @@ var file = process.argv[2];
 var pas = process.argv[3];
 
 var fs = require("fs");
-var x = require("./xor.js")
 var contents = atob(jsbintool.binaryToString(fs.readFileSync(file)))
 
 if (!fs.existsSync(file.split(".").shift())) {
