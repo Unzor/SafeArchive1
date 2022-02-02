@@ -1,5 +1,9 @@
 # SafeArchive1
-SA1 - a file archiver and extractor with a password written in node.js
+SA1 - a file archiver and extractor with a password written in Node.js.
+
+Right now, you can only archive specific files (meaning no files with contents outside of the Latin1 range, like EXE).
+
+You need a password to create an archive, hence the name SafeArchive1.
 
 # Usage
 First, run this to install SafeArchive1:
